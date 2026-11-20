@@ -3,7 +3,7 @@
 **Department:** Computing and Informatics
 **Unit:** Scientific Computing (BIT 2118)
 **Year, Semester:** 2026, Sept/Dec
-**Repository owner:** Natasha Wanjiru (BSCCS/2024/53895)
+**Repository owner:** Japan Brian Kikuyu (BSCCS/2024/74678)
 
 > The tasks were discussed and solved as a group (Group 18).
 
